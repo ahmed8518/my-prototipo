@@ -1,0 +1,4 @@
+Warning[2066] D:\dev\Microcontrollore PIC\Project\Prototipo\1-wire\_drv\ds1820.h 687 : type qualifier mismatch in assignment
+Warning[2058] D:\dev\Microcontrollore PIC\Project\Prototipo\1-wire\ds1820demo\ds1820demo.c 131 : call of function without prototype
+Warning[2066] D:\dev\Microcontrollore PIC\Project\Prototipo\1-wire\ds1820demo\ds1820demo.c 133 : type qualifier mismatch in assignment
+Warning[2066] D:\dev\Microcontrollore PIC\Project\Prototipo\1-wire\ds1820demo\ds1820demo.c 159 : type qualifier mismatch in assignment
