@@ -21,15 +21,15 @@ PATH:=C:/Program Files (x86)/Microchip/MPLABX/mplab_ide/mplab_ide/modules/../../
 # Path to java used to run MPLAB X when this makefile was created
 MP_JAVA_PATH="C:\Program Files\Java\jre6/bin/"
 OS_CURRENT="$(shell uname -s)"
-MP_CC="C:\mcc18\bin\mcc18.exe"
+MP_CC="C:\MCC18\bin\mcc18.exe"
 # MP_BC is not defined
-MP_AS="C:\mcc18\bin\..\mpasm\MPASMWIN.exe"
-MP_LD="C:\mcc18\bin\mplink.exe"
-MP_AR="C:\mcc18\bin\mplib.exe"
+MP_AS="C:\MCC18\bin\..\mpasm\MPASMWIN.exe"
+MP_LD="C:\MCC18\bin\mplink.exe"
+MP_AR="C:\MCC18\bin\mplib.exe"
 DEP_GEN=${MP_JAVA_PATH}java -jar "C:/Program Files (x86)/Microchip/MPLABX/mplab_ide/mplab_ide/modules/../../bin/extractobjectdependencies.jar" 
-MP_CC_DIR="C:\mcc18\bin"
+MP_CC_DIR="C:\MCC18\bin"
 # MP_BC_DIR is not defined
-MP_AS_DIR="C:\mcc18\bin\..\mpasm"
-MP_LD_DIR="C:\mcc18\bin"
-MP_AR_DIR="C:\mcc18\bin"
+MP_AS_DIR="C:\MCC18\bin\..\mpasm"
+MP_LD_DIR="C:\MCC18\bin"
+MP_AR_DIR="C:\MCC18\bin"
 # MP_BC_DIR is not defined
