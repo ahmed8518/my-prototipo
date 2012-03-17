@@ -1,0 +1,125 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+CONTROL_REG_2_ADDR::0x01	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	95;"	d	line:95
+DAYS_ADDR::0x05	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	99;"	d	line:99
+DAYS_ALARM_ADDR::0x0B	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	105;"	d	line:105
+DAY_WEEK_ADDR::0x06	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	100;"	d	line:100
+DAY_WEEK_ALARM_ADDR::0x0C	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	106;"	d	line:106
+DO::0x00	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	64;"	d	line:64
+Enable_OFF::0b10000000	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	88;"	d	line:88
+Enable_ON::0b00000000	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	87;"	d	line:87
+FLAG_PCF8563	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	49;"	d	line:49
+FR::0x05	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	78;"	d	line:78
+GI::0x04	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	68;"	d	line:68
+HOURS_ADDR::0x04	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	98;"	d	line:98
+HOURS_ALARM_ADDR::0x0A	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	104;"	d	line:104
+LU::0x01	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	65;"	d	line:65
+MA::0x02	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	66;"	d	line:66
+MAX_DAYS::0x32	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	116;"	d	line:116
+MAX_HOURS::0x24	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	113;"	d	line:113
+MAX_MINUTES::0x60	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	112;"	d	line:112
+MAX_MONTHS::0x13	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	115;"	d	line:115
+MAX_YEARS::0x99	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	114;"	d	line:114
+ME::0x03	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	67;"	d	line:67
+MINUTES_ADDR::0x03	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	97;"	d	line:97
+MINUTS_ALARM_ADDR::0x09	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	103;"	d	line:103
+MO::0x01	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	74;"	d	line:74
+MONTHS_ADDR::0x07	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	101;"	d	line:101
+SA::0x06	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	70;"	d	line:70
+SA::0x06	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	79;"	d	line:79
+SECONDS_ADDR::0x02	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	96;"	d	line:96
+SU::0x00	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	73;"	d	line:73
+TR::0x04	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	77;"	d	line:77
+TU::0x02	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	75;"	d	line:75
+VE::0x05	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	69;"	d	line:69
+WE::0x03	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	76;"	d	line:76
+WRITE_ADD::0xA2	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	56;"	d	line:56
+YEARS_ADDR::0x08	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	102;"	d	line:102
+date	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	280;"	l	line:280	file:
+day_of_the_week	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	222;"	l	line:222
+days	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	199;"	l	line:199
+days	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	545;"	l	line:545
+disable_alarm_interrupt_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	370;"	f	line:370	signature:(void)
+disable_alarm_interrupt_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	572;"	p	line:572	signature:(void)
+enable_alarm_interrupt_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	360;"	f	line:360	signature:(void)
+enable_alarm_interrupt_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	551;"	p	line:551	signature:(void)
+error	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	407;"	l	line:407
+error	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	442;"	l	line:442
+error	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	477;"	l	line:477
+error	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	512;"	l	line:512
+error	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	546;"	l	line:546
+get_date_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	278;"	f	line:278	signature:(void)
+get_date_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	429;"	p	line:429	signature:(void)
+get_day_of_the_week_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	337;"	p	line:337	signature:(void)
+get_days_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	197;"	f	line:197	signature:(void)
+get_days_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	299;"	p	line:299	signature:(void)
+get_hours_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	113;"	f	line:113	signature:(void)
+get_hours_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	228;"	p	line:228	signature:(void)
+get_minutes_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	90;"	f	line:90	signature:(void)
+get_minutes_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	191;"	p	line:191	signature:(void)
+get_months_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	244;"	f	line:244	signature:(void)
+get_months_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	374;"	p	line:374	signature:(void)
+get_seconds_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	63;"	f	line:63	signature:(void)
+get_seconds_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	154;"	p	line:154	signature:(void)
+get_time_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	160;"	f	line:160	signature:(void)
+get_time_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	262;"	p	line:262	signature:(void)
+get_time_seconds_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	127;"	f	line:127	signature:(void)
+get_time_seconds_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	245;"	p	line:245	signature:(void)
+get_week_days_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	220;"	f	line:220	signature:(void)
+get_years_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	267;"	f	line:267	signature:(void)
+get_years_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	411;"	p	line:411	signature:(void)
+hours	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	115;"	l	line:115
+hours	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	441;"	l	line:441
+increment_days_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	543;"	f	line:543	signature:(void)
+increment_days_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	698;"	p	line:698	signature:(void)
+increment_hours_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	439;"	f	line:439	signature:(void)
+increment_hours_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	635;"	p	line:635	signature:(void)
+increment_minutes_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	404;"	f	line:404	signature:(void)
+increment_minutes_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	614;"	p	line:614	signature:(void)
+increment_months_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	509;"	f	line:509	signature:(void)
+increment_months_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	677;"	p	line:677	signature:(void)
+increment_years_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	474;"	f	line:474	signature:(void)
+increment_years_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	656;"	p	line:656	signature:(void)
+is_alarm_ON_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	380;"	f	line:380	signature:(void)
+is_alarm_ON_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	593;"	p	line:593	signature:(void)
+minutes	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	406;"	l	line:406
+minutes	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	92;"	l	line:92
+months	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	246;"	l	line:246
+months	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	511;"	l	line:511
+seconds	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	65;"	l	line:65
+set_day_of_the_week_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	211;"	f	line:211	signature:(unsigned char day_of_the_week)
+set_day_of_the_week_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	320;"	p	line:320	signature:(unsigned char day_of_the_week)
+set_day_of_the_week_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	348;"	f	line:348	signature:(unsigned char day_of_the_week_alarm, unsigned char alarm_enable)
+set_day_of_the_week_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	530;"	p	line:530	signature:(unsigned char day_of_the_week, unsigned char alarm_enable)
+set_days_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	188;"	f	line:188	signature:(unsigned char days)
+set_days_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	282;"	p	line:282	signature:(unsigned char days)
+set_days_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	336;"	f	line:336	signature:(unsigned char days, unsigned char alarm_enable)
+set_days_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	504;"	p	line:504	signature:(unsigned char days, unsigned char alarm_enable)
+set_hours_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	104;"	f	line:104	signature:(unsigned char hours)
+set_hours_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	211;"	p	line:211	signature:(unsigned char hours)
+set_hours_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	325;"	f	line:325	signature:(unsigned char hours, unsigned char alarm_enable)
+set_hours_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	479;"	p	line:479	signature:(unsigned char hours, unsigned char alarm_enable)
+set_minutes_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	80;"	f	line:80	signature:(unsigned char minutes)
+set_minutes_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	174;"	p	line:174	signature:(unsigned char minutes)
+set_minutes_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	312;"	f	line:312	signature:(unsigned char minutes, unsigned char alarm_enable)
+set_minutes_alarm_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	454;"	p	line:454	signature:(unsigned char minutes, unsigned char alarm_enable)
+set_months_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	234;"	f	line:234	signature:(unsigned char months)
+set_months_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	357;"	p	line:357	signature:(unsigned char months)
+set_seconds_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	53;"	f	line:53	signature:(unsigned char seconds)
+set_seconds_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	137;"	p	line:137	signature:(unsigned char seconds)
+set_years_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	258;"	f	line:258	signature:(unsigned char years)
+set_years_RTCC	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.h	394;"	p	line:394	signature:(unsigned char years)
+time	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	129;"	l	line:129	file:
+time	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	162;"	l	line:162	file:
+value	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	130;"	l	line:130
+value	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	163;"	l	line:163
+value	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	281;"	l	line:281
+value	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	382;"	l	line:382
+years	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	269;"	l	line:269
+years	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\PCF8563\PCF8563.c	476;"	l	line:476

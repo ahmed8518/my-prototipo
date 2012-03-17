@@ -1,0 +1,62 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BLINK_OFF::0	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	97;"	d	line:97
+BLINK_ON::1	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	96;"	d	line:96
+BacklightLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	248;"	f	line:248	signature:(char active)
+BacklightLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	385;"	p	line:385	signature:(char active)
+ClearLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	230;"	f	line:230	signature:(void)
+ClearLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	335;"	p	line:335	signature:(void)
+CursorLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	239;"	f	line:239	signature:(char active,char blinking)
+CursorLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	363;"	p	line:363	signature:(char active,char blinking)
+D0	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	140;"	l	line:140
+D1	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	140;"	l	line:140
+D2	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	140;"	l	line:140
+D3	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	140;"	l	line:140
+Epulse	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	42;"	f	line:42	signature:(void)
+Epulse	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	117;"	p	line:117	signature:(void)
+FLAG_LCD_44780	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	53;"	d	line:53
+GotoLineLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	114;"	f	line:114	signature:(char line)
+GotoLineLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	237;"	p	line:237	signature:(char line)
+HomeLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	77;"	f	line:77	signature:(void)
+HomeLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	172;"	p	line:172	signature:(void)
+LCD_D0::LATDbits.LATD4	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	75;"	d	line:75
+LCD_D1::LATDbits.LATD5	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	76;"	d	line:76
+LCD_D2::LATDbits.LATD6	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	77;"	d	line:77
+LCD_D3::LATDbits.LATD7	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	78;"	d	line:78
+LCD_E::LATDbits.LATD3	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	80;"	d	line:80
+LCD_LED::LATCbits.LATC1	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	82;"	d	line:82
+LCD_RS::LATDbits.LATD2	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	79;"	d	line:79
+LCD_RW::LATDbits.LATD1	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	81;"	d	line:81
+LEFT::0	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	90;"	d	line:90
+Line2LCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	67;"	f	line:67	signature:(void)
+Line2LCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	154;"	p	line:154	signature:(void)
+OpenLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	256;"	f	line:256	signature:(unsigned char quartz_frequency)
+OpenLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	407;"	p	line:407	signature:(unsigned char quartz_frequency)
+RIGHT::1	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	91;"	d	line:91
+SendCommand	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	54;"	f	line:54	signature:(unsigned char D3, unsigned char D2, unsigned char D1, unsigned char D0)
+SendCommand	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	137;"	p	line:137	signature:(unsigned char bit_3, unsigned char bit_2, unsigned char bit_1, unsigned char bit_0)
+ShiftCursorLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	101;"	f	line:101	signature:(char shift, char number_of_shift)
+ShiftCursorLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	217;"	p	line:217	signature:(char shift, char number_of_shift)
+ShiftLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	87;"	f	line:87	signature:(char shift, char number_of_shift)
+ShiftLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	196;"	p	line:196	signature:(char shift, char number_of_shift)
+TURN_OFF::0	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	94;"	d	line:94
+TURN_ON::1	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	93;"	d	line:93
+WriteCharLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	138;"	f	line:138	signature:(unsigned char value)
+WriteCharLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	254;"	p	line:254	signature:(unsigned char value)
+WriteIntLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	197;"	f	line:197	signature:(int value, char number_of_digits)
+WriteIntLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	317;"	p	line:317	signature:(int value, char number_of_digits)
+WriteStringLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	166;"	f	line:166	signature:(const rom char *buffer)
+WriteStringLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	271;"	p	line:271	signature:(const rom char *buffer)
+WriteVarLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	181;"	f	line:181	signature:(unsigned char *buffer)
+WriteVarLCD	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	289;"	p	line:289	signature:(unsigned char *buffer)
+convertedInt	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	200;"	l	line:200
+i	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	103;"	l	line:103
+i	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	89;"	l	line:89
+index	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.c	203;"	l	line:203
+itoa	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\LCD_44780\LCD_44780.h	56;"	p	line:56	signature:(int value, char *s)

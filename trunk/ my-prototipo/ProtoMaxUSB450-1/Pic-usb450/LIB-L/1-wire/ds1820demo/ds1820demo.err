@@ -1,0 +1,5 @@
+Error[1027] C:\Users\mbe\Downloads\1-wire\ds1820demo\ds1820demo.h 9 : unable to locate 'p18cxxx.h'
+Error[1027] C:\Users\mbe\Downloads\1-wire\ds1820demo\ds1820demo.h 10 : unable to locate 'delays.h'
+Error[1027] C:\Users\mbe\Downloads\1-wire\ds1820demo\ds1820demo.h 11 : unable to locate 'stdio.h'
+Error[1027] C:\Users\mbe\Downloads\1-wire\ds1820demo\ds1820demo.h 12 : unable to locate 'usart.h'
+Error[1027] C:\Users\mbe\Downloads\1-wire\ds1820demo\ds1820demo.h 13 : unable to locate 'string.h'
