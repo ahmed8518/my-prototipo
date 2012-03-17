@@ -41,7 +41,7 @@
   2.7b  Improvements to USBCBSendResume(), to make it easier to use.
 ********************************************************************/
 
-
+//
 
 #ifndef MAIN_C
 #define MAIN_C
