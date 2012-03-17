@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+FLAG_I2C_EEPROM	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.h	46;"	d	line:46
+addressH	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	208;"	l	line:208
+addressH	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	47;"	l	line:47
+addressL	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	209;"	l	line:209
+addressL	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	48;"	l	line:48
+dataReadback	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	180;"	l	line:180
+error	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	177;"	l	line:177
+readI2C_EEPROM	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	206;"	f	line:206	signature:( unsigned char control, int address, unsigned char *data)
+readI2C_EEPROM	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.h	129;"	p	line:129	signature:( unsigned char control, int address, unsigned char *data )
+writeI2C_EEPROM	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	45;"	f	line:45	signature:( unsigned char control, int address, unsigned char data )
+writeI2C_EEPROM	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.h	73;"	p	line:73	signature:( unsigned char control, int address, unsigned char data )
+writeI2C_EEPROM_check	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.c	174;"	f	line:174	signature:( unsigned char control, int address, unsigned char data )
+writeI2C_EEPROM_check	C:\Documents and Settings\Mauro\Desktop\Partizione\Lavori\Progetti\Library\LaurTec-C18-Libraries\i2cEEPROM\i2cEEPROM.h	102;"	p	line:102	signature:( unsigned char control, int address, unsigned char data )
