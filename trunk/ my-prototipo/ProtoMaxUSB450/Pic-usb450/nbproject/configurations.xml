@@ -147,9 +147,11 @@
         <property key="stack-analysis-mplink" value="false"/>
       </C18LanguageToolchain>
       <PICkit2PlatformTool>
-        <property key="tracecontrol.disablemacros" value="true"/>
-        <property key="tracecontrol.medium" value="0"/>
-        <property key="tracecontrol.select" value="0"/>
+        <property key="pk2settings.3state" value="false"/>
+        <property key="pk2settings.preserveee" value="false"/>
+        <property key="pk2settings.setvddvoltage" value="${pk2settings.setvddvoltage}"/>
+        <property key="pk2settings.userpgmexec" value="true"/>
+        <property key="pk2settings.usetargetpower" value="false"/>
       </PICkit2PlatformTool>
     </conf>
   </confs>
